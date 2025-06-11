@@ -3,7 +3,7 @@ from db import init_db
 from analyzer import detect_anomalies
 import time, sqlite3, pandas as pd, matplotlib.pyplot as plt
 
-TOKEN = "ВСТАВЬ_СЮДА_СВОЙ_ТОКЕН"
+TOKEN = "aa6f378db93797003b401d0eda4828510B2C1C6B907C5C376A07E73EA2C75513BD1DCB59"
 
 def main():
     init_db()
